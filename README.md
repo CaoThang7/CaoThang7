@@ -62,13 +62,4 @@ I'm computer programmer.I develop mobile apps.I really enjoy learning frameworks
       </td>
     </tr>
   </tbody>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://activity-graph.herokuapp.com/graph?username=CaoThang7">
-          <img width="705" src="https://activity-graph.herokuapp.com/graph?username=CaoThang7&theme=dracula">
-        </a>
-      </td>
-    </tr>
-  </tbody>
 </table>
