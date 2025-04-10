@@ -2,36 +2,61 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center" color="#36BCF7FF"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Mobile+Developer;Flutter+ReactNative+is+my+life"></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Frontend+Web+Developer;Next.js+is+my+favorite+framework;Clean+UI+%7C+Great+UX+is+my+goal!"></p>
 
 ### 🚀 About me
 
-I'm computer programmer.I develop mobile apps.I really enjoy learning frameworks like Flutter and React Native.Some languages i enjoy is Java, JavaScript, Dart.
+I'm a passionate Frontend Web Developer with a strong focus on building modern, responsive, and performant websites.
+I specialize in Next.js, and I love creating smooth user experiences with clean UI and great UX.
 
-### 🌐 Contact me
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+Previously a mobile developer using Flutter and React Native, I’ve now shifted my focus to the **web platform**, where I thrive in building frontend interfaces that are both functional and visually appealing.
 
-<span>![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)</span>
-<span>![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</span>
+I focus on building clean, scalable, and user-friendly web interfaces that deliver real value.
 
 ### 🛠 Languages and Tools
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+#### 🧠 Programming Languages
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" title="JavaScript" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" title="TypeScript" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=red" title="Java" height="25"/></span> &nbsp;
+
+#### 🌐 Frontend Development
+<span><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" title="React" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" title="Next.js" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/React_Native-282C34?logo=react&logoColor=61DAFB" title="React Native" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" title="HTML5" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" title="CSS3" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Tailwind_CSS-282C34?logo=tailwind-css&logoColor=06B6D4" title="Tailwind CSS" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Material_UI-282C34?logo=mui&logoColor=007FFF" title="Material UI" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Shadcn_UI-282C34?logo=radixui&logoColor=white" title="Shadcn UI" height="25"/></span> &nbsp;
+
+#### 🖥 Backend Development
 <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" title="Node.js" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" title="Express.js" height="25"/></span> &nbsp;
+
+#### 🗄 Databases
+<span><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" title="PostgreSQL" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" title="MySQL" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" title="MongoDB" height="25"/></span> &nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" title="git" height="25"/></span> &nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC"  title="Visual Studio Code" height="25"/></span> &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" title="Firebase" height="25"/></span> &nbsp;
 
-<img align="left" alt="Android Studio" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226770.png" style="padding-right:10px;"/>
-<img align="left" alt="Flutter" width="26px" src="https://img.icons8.com/color/96/flutter.png" style="padding-right:10px;"/>
-<img align="left" alt="Dart" width="26px" src="https://img.icons8.com/color/96/dart.png" style="padding-right:10px;"/>
-<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" style="padding-right:10px;"/>
-<img align="left" alt="Figma" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" style="padding-right:10px;"/> 
-<img align="left" alt="Figma" width="26px" src="https://img.icons8.com/color/2x/react-native.png" style="padding-right:10px;"/> 
+#### ☁️ Cloud Services
+<span><img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-aws&logoColor=FF9900" title="AWS" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Cloudflare-282C34?logo=cloudflare&logoColor=F38020" title="Cloudflare" height="25"/></span> &nbsp;
 
+#### ⚙️ Tools & Package Managers
+<span><img src="https://img.shields.io/badge/NPM-282C34?logo=npm&logoColor=CB3837" title="NPM" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Yarn-282C34?logo=yarn&logoColor=2C8EBB" title="Yarn" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Homebrew-282C34?logo=homebrew&logoColor=FBB040" title="Homebrew" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" title="Docker" height="25"/></span> &nbsp;
+
+#### 🔧 DevOps & Version Control
+<span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" title="Git" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=white" title="GitHub" height="25"/></span> &nbsp;
+<span><img src="https://img.shields.io/badge/GitLab-282C34?logo=gitlab&logoColor=FC6D26" title="GitLab" height="25"/></span> &nbsp;
+
+#### 🎨 Design & Prototyping
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" title="Figma" height="25"/></span> &nbsp;
 </br>
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats and Most Languages
